@@ -76,7 +76,6 @@ angkaDec = random.uniform(0, 0.5)
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar 
 yang ada dibawah ini
 
-![Foto Lat2](https://user-images.githubusercontent.com/72906579/98340266-b19fcb00-203f-11eb-8660-6c72540b8626.
-png) <br>
+![Foto Lat2](foto/shoba3.png) <br>
 
 ___________________________________________________________________________________________________
