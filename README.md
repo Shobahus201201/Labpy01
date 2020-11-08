@@ -44,8 +44,7 @@ yang ada dibawah ini :
 
 ## PRAKTIKUM 1 - LATIHAN 2
 
-![Latihan 2](https://user-images.githubusercontent.com/72906579/98334141-d17dc180-2034-11eb-8f93-2c8117283027.
-png) <br>
+![Latihan 2](foto/shoba3.png) <br>
 
 Di tugas ke dua, saya diminta untuk mencari nilai acak yang bernominal dibawah 0,5. Maka saya memasukan syntax:
 ```python
@@ -76,6 +75,37 @@ angkaDec = random.uniform(0, 0.5)
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar 
 yang ada dibawah ini
 
-![Foto Lat2](foto/shoba3.png) <br>
+![Foto Lat2](foto/shoba4.PNG) <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ___________________________________________________________________________________________________

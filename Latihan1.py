@@ -8,8 +8,7 @@ if N>0:
       total+=x
       if max<x:
          max=x
-      elif min>x:
-         min=x
+
    distance=max-min
    rata2=total/x
    print("Bilangan Terbesarnya =",max)
