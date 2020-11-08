@@ -2,7 +2,7 @@
 
 **NAMA : SHOBAHUS SOLICHIN** <br>
 **KELAS : TI.20.A1** <br>
-**NIM    :310020076**
+**NIM    :312010076**
 
 Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu diantaranya:
 
